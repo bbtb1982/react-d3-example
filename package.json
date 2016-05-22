@@ -1,7 +1,7 @@
 {
-  "name": "react-d3-example"
-  "version": 0.0.1,
-  "description": "a simple example of d3 graphs in react"
+  "name": "react-d3-example",
+  "version":"0.0.1", 
+  "description": "a simple example of d3 graphs in react",
   "scripts": {
     "clean": "rimraf dist",
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.config.prod.js",
